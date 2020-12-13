@@ -1,6 +1,7 @@
 # 2020-2-Database-Programming-SNS-Service
 
-2020-2 데이터베이스 프로그래밍 수업에서 jsp, Oracle을 사용하여 만든 SNS 서비스
+2020-2 데이터베이스 프로그래밍 수업 프로젝트 <br>
+jsp와 Oracle JDBC 드라이버를 사용하여 만든 간단한 SNS 서비스
 
 ## 1. 구현 기능
 
