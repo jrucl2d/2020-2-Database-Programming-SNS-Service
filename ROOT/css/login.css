@@ -1,0 +1,19 @@
+.outer-frame {
+  display: flex;
+  justify-content: center;
+}
+.login-frame {
+  display: inline-block;
+  height: 10rem;
+  width: 20rem;
+  border: 1px solid black;
+  padding: 1rem;
+}
+.login-frame form {
+  display: flex;
+  flex-direction: column;
+}
+.login-buttons {
+  margin-top: 1rem;
+  text-align: center;
+}

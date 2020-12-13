@@ -1,0 +1,22 @@
+.outer-frame {
+  display: flex;
+  justify-content: center;
+}
+.post-frame {
+  display: inline-block;
+  height: 20rem;
+  width: 20rem;
+  border: 1px solid black;
+  padding: 1rem;
+}
+.post-frame form {
+  display: flex;
+  flex-direction: column;
+}
+.post-buttons {
+  margin-top: 1rem;
+  text-align: center;
+}
+textarea{
+  height:10rem;
+}

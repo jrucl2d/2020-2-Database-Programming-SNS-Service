@@ -1,0 +1,19 @@
+.outer-frame {
+  display: flex;
+  justify-content: center;
+}
+.register-frame {
+  display: inline-block;
+  height: 13rem;
+  width: 20rem;
+  border: 1px solid black;
+  padding: 1rem;
+}
+.register-frame form {
+  display: flex;
+  flex-direction: column;
+}
+.register-buttons {
+  margin-top: 1rem;
+  text-align: center;
+}
